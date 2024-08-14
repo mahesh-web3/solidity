@@ -1,3 +1,3 @@
 # solidity
 
-Solidity Practice Programmes
+Solidity Practice codes
